@@ -1,0 +1,11 @@
+{
+    "description": "Personal Dev Profile",
+    "repo": "https://github.com/thelinuxuser-choice/thelinuxuser-choice.github.io",
+    "owner": {
+        "username": "thelinuxuser-choice",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "thelinuxuser-choice.github.io"
+    }
+}
