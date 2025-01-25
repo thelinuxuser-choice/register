@@ -1,0 +1,11 @@
+{
+    "description": "Personal developer profile",
+    "repo": "https://github.com/thelinuxuser-choice/Portfolio/",
+    "owner": {
+        "username": "thelinuxuser-choice",
+        "email": "me@example.com"
+    },
+    "record": {
+        "A": ["75.2.60.5"]
+    }
+}
